@@ -9,10 +9,10 @@
 - 📫 How to reach me: www.linkedin.com/in/kaio-mota-51377a211
 
 <br>
-<div align="space-between">
+<div align="center">
   <a href="https://github.com/kaio-mota18">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=kaio-mota18&layout=compact&show_icons=true&theme=solarized-dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-mota18&layout=compact&langs_count=16&theme=solarized-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=kaio-mota18&layout=compact&show_icons=true&theme=solarized-dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-mota18&layout=compact&langs_count=16&theme=solarized-dark"/>
 <div/><br>
 
 <h3 align="center"> 🛠️ Tech stack </h3>
