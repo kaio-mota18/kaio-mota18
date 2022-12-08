@@ -11,8 +11,8 @@
 <br>
 <div align="center">
   <a href="https://github.com/kaio-mota18">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/?username=kaio-mota18&layout=compact&show_icons=true&theme=solarized-dark"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-mota18&layout=compact&langs_count=16&theme=solarized-dark"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/?username=kaio-mota18&layout=compact&show_icons=true&theme=solarized-dark"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-mota18&layout=compact&langs_count=16&theme=solarized-dark"/>
 <div/><br>
 
 <h3 align="center"> 🛠️ Tech stack </h3>
