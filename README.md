@@ -9,7 +9,7 @@
 - 📫 How to reach me: www.linkedin.com/in/kaio-mota-51377a211
 
 <br>
-<div align="center">
+<div >
   <a href="https://github.com/kaio-mota18">
   <img height="190em" src="https://github-readme-stats.vercel.app/api/?username=kaio-mota18&layout=compact&show_icons=true&theme=solarized-dark"/>
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaio-mota18&layout=compact&langs_count=16&theme=solarized-dark"/>
@@ -22,10 +22,9 @@
   <img  width="40" height="50" alt="KaioCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img  width="40" height="50" alt="KaioJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img  width="40" height="50" alt="KaioREACT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img  width="40" height="50" alt="KaioC" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-  <img  width="40" height="50" alt="KaioSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img  width="40" height="50" alt="KaioC" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />  
   <img  width="40" height="50" alt="KaioNODE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  />
+  
 <div/>
   
 <br><h3 align="start">🗣 Languages spoken</h3>
