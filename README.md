@@ -22,8 +22,10 @@
   <img  width="40" height="50" alt="KaioCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img  width="40" height="50" alt="KaioJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img  width="40" height="50" alt="KaioREACT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img  width="40" height="50" alt="KaioC" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />  
   <img  width="40" height="50" alt="KaioNODE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img  width="40" height="50" alt="KaioCSHAP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+  <img  width="40" height="50" alt="KaioANGULAR" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+  <img  width="40" height="50" alt="KaioPOSTGREE" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
   
 <div/>
   
