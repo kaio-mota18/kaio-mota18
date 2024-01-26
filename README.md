@@ -23,9 +23,12 @@
   <img  width="40" height="50" alt="KaioJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img  width="40" height="50" alt="KaioREACT" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img  width="40" height="50" alt="KaioNODE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img  width="40" height="50" alt="KaioCSHAP" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+  <img  width="40" height="50" alt="KaioCSHAP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img  width="40" height="50" alt="KaioANGULAR" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img  width="40" height="50" alt="KaioPOSTGREE" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
+  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+          
 <div/>
   
 <br><h3 align="start">🗣 Languages spoken</h3>
